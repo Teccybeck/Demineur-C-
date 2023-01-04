@@ -1,0 +1,22 @@
+﻿  Gagner.cpp
+E:\Projet visual studio\Demineur VB\Demineur\Gagner.cpp(19,29): warning C4018: '<' : incompatibilité signed/unsigned
+E:\Projet visual studio\Demineur VB\Demineur\Gagner.cpp(33,29): warning C4018: '<' : incompatibilité signed/unsigned
+  Grille.cpp
+E:\Projet visual studio\Demineur VB\Demineur\Grille.cpp(54,29): warning C4018: '<' : incompatibilité signed/unsigned
+E:\Projet visual studio\Demineur VB\Demineur\Grille.cpp(102,28): warning C4018: '>' : incompatibilité signed/unsigned
+E:\Projet visual studio\Demineur VB\Demineur\Grille.cpp(127,47): warning C4804: '<' : utilisation risquée du type 'bool' dans l'opération
+  Main.cpp
+  NouveauCoup.cpp
+E:\Projet visual studio\Demineur VB\Demineur\NouveauCoup.cpp(10,12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+E:\Projet visual studio\Demineur VB\Demineur\NouveauCoup.cpp(15,29): warning C4018: '<' : incompatibilité signed/unsigned
+  Perdre.cpp
+E:\Projet visual studio\Demineur VB\Demineur\Perdre.cpp(20,29): warning C4018: '<' : incompatibilité signed/unsigned
+E:\Projet visual studio\Demineur VB\Demineur\Perdre.cpp(29,30): warning C4018: '<' : incompatibilité signed/unsigned
+E:\Projet visual studio\Demineur VB\Demineur\Perdre.cpp(36,30): warning C4018: '<' : incompatibilité signed/unsigned
+  Probleme.cpp
+E:\Projet visual studio\Demineur VB\Demineur\Probleme.cpp(14,29): warning C4018: '<' : incompatibilité signed/unsigned
+E:\Projet visual studio\Demineur VB\Demineur\Probleme.cpp(86,13): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  Génération de code en cours...
+E:\Projet visual studio\Demineur VB\Demineur\NouveauCoup.cpp(25): warning C4715: 'VerificationCaseJouée' : les chemins de contrôle ne retournent pas tous une valeur
+  LINK : E:\Projet visual studio\Demineur VB\Debug\Demineur.exe introuvable ou non généré par la dernière édition de liens incrémentielle ; édition de liens complète en cours
+  Demineur.vcxproj -> E:\Projet visual studio\Demineur VB\Debug\Demineur.exe
